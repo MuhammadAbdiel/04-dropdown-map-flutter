@@ -7,4 +7,4 @@ Prodi : D3 Manajemen Informatika <br>
 
 ## Hasil Praktikum
 
-![image.png](assets/images/result.png)
+![image.png](assets/images/result2.png)

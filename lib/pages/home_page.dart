@@ -52,6 +52,19 @@ class _HomePageState extends State<HomePage> {
       padding: const EdgeInsets.all(10),
       child: Column(
         children: [
+          const Text('Muhammad Abdiel Firjatullah',
+              style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold)),
+          const Text('2031710156',
+              style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold)),
+          const SizedBox(
+            height: 10,
+          ),
+          Container(
+            margin: const EdgeInsets.only(bottom: 20),
+            width: double.infinity,
+            height: 1,
+            color: Colors.grey,
+          ),
           UserInput(inputController: inputController),
           const SizedBox(
             height: 10,
